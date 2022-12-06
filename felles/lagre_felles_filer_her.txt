@@ -1,3 +1,0 @@
-Her kan dere legge python-filer som alle skal bruke, f.eks. felles klasse
-
-Felles dokumentasjon
