@@ -1,0 +1,5 @@
+Vi har 90 minutter. På den tiden skal vi lage et felles python-spill i pygame som virker. Hvor mye får vi til hvis vi samarbeider?
+
+Lærdom fra i fjor: for å bli ferdige må vi holde ambisjonene nede! Vi kan heller utvide senere.
+Hvis vi ikke leverer til fristen mister vi kontrakten med investoren, og vår erkenemesis får en milliardkontrakt til spillutvikling.
+
