@@ -1,5 +1,20 @@
-Vi har 90 minutter. På den tiden skal vi lage et felles python-spill i pygame som virker. Hvor mye får vi til hvis vi samarbeider?
+Pygame - Eventyrspill "Bakka Quest"
 
-Lærdom fra i fjor: for å bli ferdige må vi holde ambisjonene nede! Vi kan heller utvide senere.
-Hvis vi ikke leverer til fristen mister vi kontrakten med investoren, og vår erkenemesis får en milliardkontrakt til spillutvikling.
+Starten på noe stort må begynne smått. Ikke vær for ambisiøs. Husk at det kan være mye personlighet i en firkant og en sirkel.
 
+Diskuter
+1) Avataren
+-utseende / grenser for figuren
+-egenskaper og metoder
+-flytte på seg med piltaster?
+
+2) Landskapet
+-går ut av en rute og inn i et annet
+-hvor mange "ruter" (antall personer i gruppa - 1)
+-hva skal skje i de forskjellige rutene
+-hvilken interaksjon kan avataren ha med det som skjer i ruta?
+-hvordan skal bakgrunnen se ut, felles og individuelt for rutene?
+
+Fordel oppgaver:
+-noen må jobbe med avataren
+-fordel forskjellige landskapsruter mellom resten av gruppa
