@@ -1,9 +1,18 @@
-# Innleveringsoppgave
+# Bakka Quest
 
-Lag en eller flere mapper med besvarelsen din. Pass på at mappe-og-fil-strukturen er slik at filene fremdeles virker i samspill når de blir levert på github og senere klonet til lærerens maskin. Pass på at alle refererte filer er med, i riktig relativ plassering, slik at alle linker og filreferanser virker.
+Her er det plass for et samarbeidsprosjekt i IT2. Alle kan delta - begge klassene samarbeider som en gruppe med alle, og i samme repository.
 
-Fra main-branch: Bruk Add file - Upload files til å levere en eller flere mapper med filer. 
+Ideer til prosjektet:
+-en avatar som kan vandre rundt. (Starter med vandring høyre-venstre.)
+-deler det totale eventyrkartet opp i enkeltvinduer
+-når avataren vandrer ut av skjermen til høyre kommer den inn i et nytt "vindu" fra venstre.
+-hver elev kan programmere sitt eget vindu, eller samarbeide om et vindu
+-interaksjon kan gjøres både med forflytning, kollisjon, og tekstkommandoer
 
-Dra aktuelle hovedmapper til innleveringsvinduet, innholdet og mappestrukturen under blir kopiert til github.
+Hvilke ting skal være felles i alle vinduer? 
+Skal det være monstre?
+Kan man finne ting? Kjøpe ting? Sloss?
 
-Commit directly to the main branch
+Opprette et bibliotek med felles kode som kan importeres og gjenbrukes
+-klasser
+-funksjoner
