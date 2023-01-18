@@ -1,18 +1,48 @@
-# Bakka Quest
+# IT2 bedriftsprosjekt
 
-Her er det plass for et samarbeidsprosjekt i IT2. Alle kan delta - begge klassene samarbeider som en gruppe med alle, og i samme repository.
+Her er det plass for et samarbeidsprosjekt i IT2. Teamet samarbeider med felles filer i samme repository.
 
-### Ideer til prosjektet:
-* en avatar som kan vandre rundt. (Starter med vandring høyre-venstre.)
-* deler det totale eventyrkartet opp i enkeltvinduer
-* når avataren vandrer ut av skjermen til høyre kommer den inn i et nytt "vindu" fra venstre.
-* hver elev kan programmere sitt eget vindu, eller samarbeide om et vindu
-* interaksjon kan gjøres både med forflytning, kollisjon, og tekstkommandoer
+### Teamet
+* Produkteieren (to elever)
+* Team-medlemmer (7 elever)
 
-### Hvilke ting skal være felles i alle vinduer? 
-* Skal det være monstre? Skal man sloss? Snakke (skrive) sammen?
-* Kan man finne ting? Kjøpe ting?
+* Interessenter
+  * Investorer (læreren)
+  * Brukere (andre elever, ikke fra teamet som utvikler løsningen)
 
-### Opprette et bibliotek med felles kode som kan importeres og gjenbrukes
-* klasser
-* funksjoner
+### Prosjektet
+* Skal være et produkt som IT2-bedriften kan tjene penger på
+* En fordel at vi samtidig får øvd på objektorientert programmering
+* Opprett et bibliotek med felles kode (klasser og funksjoner) som kan importeres og gjenbrukes av alle i teamet
+* Kode må dokumenteres skikkelig slik at nye teammedlemmer kan ta over oppgaver etter minimalt med opplæring
+
+### Systemutvikling
+* Smidig metode: Scrum
+#### Stikkord:
+  1. Sprintplanlegging
+      * Møte med interessenter
+      * Notater (fri tekst)
+      * Backloggen - **produkteierens ansvar**
+        * Markdown-fil
+        * Som "type bruker" vil jeg kunne "utføre en gitt handling", slik at "overordnet mål"
+        * Prioritert liste
+        * Hvor mange av disse kan fullføres i neste sprint? Avklares med teamet og interessenter.
+      * Utvalgte deler av backloggen brytes opp til håndterlige oppgaver i oppgavetavla (Projects her på gitHub) - **teamets ansvar**
+        * Teammedlemmene velger seg oppgaver fra Todo-listen
+  2. Standupmøte
+      * Fast tid hver IT2-økt (onsdag - fredag), oftere hvis teamet blir enige om det
+      * Hva gjorde jeg siden sist, hva skal jeg gjøre i dag, ser jeg noen hinder i veien
+      * Oppdatering av oppgavetavla  
+  3. Sprintgjennomgang
+      * Møte med interessenter
+      * Oppdatering av framdrift
+      * Oppdatering av notater og backloggen
+      * Avtale innhold i neste sprint
+  4. Retrospektiv
+      * Drop / Add / Keep / Improve
+      * Del erfaringer (egne post-it, felles gjennomgang)
+      * Oppdatere backloggen før neste sprint
+
+### Sluttresultat
+* IT-produkt
+* Erfaring med Systemutviklingsmetoder og samarbeid
