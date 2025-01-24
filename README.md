@@ -13,7 +13,7 @@ Her er det plass for et samarbeidsprosjekt i IT2. Teamet samarbeider med felles 
 
 ### Prosjektet
 * Skal være et produkt som Riverbank Robotics kan tjene penger på
-* En fordel at vi samtidig får øvd på objektorientert programmering (i openSCAD)
+* Objektorientert programmering (i arduino C++)
 * Opprett et bibliotek med felles kode (klasser og funksjoner) som kan importeres og gjenbrukes av alle i teamet
 * All kode må dokumenteres skikkelig slik at nye teammedlemmer kan ta over oppgaver etter minimalt med opplæring
 
