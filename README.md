@@ -3,18 +3,19 @@
 Her er det plass for et samarbeidsprosjekt i IT2. Teamet samarbeider med felles filer i samme repository.
 
 ### Teamet
-* Produkteieren (to elever)
-* Team-medlemmer (7 elever)
+* Produkteieren:
+* Scrum Master:
+* Team-medlemmer:
 
 * Interessenter
   * Investorer (læreren)
   * Brukere (andre elever, ikke fra teamet som utvikler løsningen)
 
 ### Prosjektet
-* Skal være et produkt som IT2-bedriften kan tjene penger på
-* En fordel at vi samtidig får øvd på objektorientert programmering
+* Skal være et produkt som Riverbank Robotics kan tjene penger på
+* En fordel at vi samtidig får øvd på objektorientert programmering (i openSCAD)
 * Opprett et bibliotek med felles kode (klasser og funksjoner) som kan importeres og gjenbrukes av alle i teamet
-* Kode må dokumenteres skikkelig slik at nye teammedlemmer kan ta over oppgaver etter minimalt med opplæring
+* All kode må dokumenteres skikkelig slik at nye teammedlemmer kan ta over oppgaver etter minimalt med opplæring
 
 ### Systemutvikling
 * Smidig metode: Scrum
@@ -30,7 +31,7 @@ Her er det plass for et samarbeidsprosjekt i IT2. Teamet samarbeider med felles 
       * Utvalgte deler av backloggen brytes opp til håndterlige oppgaver i oppgavetavla (Projects her på gitHub) - **teamets ansvar**
         * Teammedlemmene velger seg oppgaver fra Todo-listen
   2. Standupmøte
-      * Fast tid hver IT2-økt (onsdag - fredag), oftere hvis teamet blir enige om det
+      * Fast tid hver IT2-økt (onsdag og fredag), oftere hvis teamet blir enige om det
       * Hva gjorde jeg siden sist, hva skal jeg gjøre i dag, ser jeg noen hinder i veien
       * Oppdatering av oppgavetavla  
   3. Sprintgjennomgang
